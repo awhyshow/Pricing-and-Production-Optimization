@@ -53,3 +53,31 @@ CREATE TABLE `Sales_bridge_table` (
   FOREIGN KEY (`Product_PK`) 
 	REFERENCES `Products`(`Product_PK`)
 );
+
+SELECT * FROM factories;
+
+-- to create a _FK from existing Factory_PK in table Products I need to make a temporary table
+
+DROP TABLE Products_tmp;
+
+CREATE TABLE Products_tmp (
+  Product_name VARCHAR(40),
+  Factory_name VARCHAR(40),
+  Division_name VARCHAR(40)
+);
+
+SELECT * FROM Products_tmp;
+
+-- now I can JOIN the temporary table on the factory table to get products table
+
+INSERT INTO Products (Product_name, Factory_PK)
+SELECT
+  pt.Product_name,
+  f.Factory_PK
+FROM Products_tmp pt
+JOIN Factories f
+  ON f.Factory_name = pt.Factory_name
+ AND f.Division_name = pt.Division_name;
+
+SELECT * FROM products;
+SELECT * FROM factories;
