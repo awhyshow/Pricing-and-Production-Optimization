@@ -1,71 +1,67 @@
 Pricing & Production Optimization Analysis
-
 Willy Wonka Chocolate Factory
+Project Overview
 
- Project Overview
+This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the objective is to identify which products and factories drive profit and where pricing or production decisions can be optimized to improve overall performance.
 
-This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the goal is to identify which products and factories drive profit—and where pricing or production decisions can be optimized to improve overall performance 
-
-Presentation - Pricing Optimiza…
-
- Business Problem
+Business Problem
 
 Not all products contribute equally to profitability:
 
-Some high-volume products generate low profit, suggesting potential underpricing.
+Some high-volume products generate low profit, suggesting potential underpricing
 
-Other products show strong margins but low sales volume, limiting their impact.
+Other products show strong margins but low sales volume, limiting their overall impact
 
-Factories differ significantly in output and efficiency.
+Factories differ significantly in output and operational efficiency
 
-Without a clear view of these dynamics, pricing and production decisions risk leaving profit on the table.
+Without a clear view of these dynamics, pricing and production decisions risk leaving profit unrealized.
 
- Key Insights
+Key Insights
 Product Performance
 
-Chocolate bars dominate total sales, with Milk Chocolate Wonka Bar as the top seller.
+Chocolate bars dominate total sales, with the Milk Chocolate Wonka Bar as the top-selling product
 
-Non-core products (Wonka Gum, Lickable Wallpaper, Kazookles) account for most non-chocolate sales.
+Non-core products such as Wonka Gum, Lickable Wallpaper, and Kazookles account for most non-chocolate sales
 
-Many niche products sell in very low volumes and contribute little to revenue.
+Many niche products sell in very low volumes and contribute little to overall revenue
 
-Pricing & Profitability
+Pricing and Profitability
 
-High selling price does not always equal high profit.
+High selling price does not always translate into high profit
 
-Lickable Wallpaper and Everlasting Gobstopper show the highest profit per unit.
+Lickable Wallpaper and Everlasting Gobstopper show the highest profit per unit
 
-Core chocolate bars deliver steady but mid-range margins.
+Core chocolate bars deliver steady but mid-range margins
 
-Several products appear underpriced relative to their production costs.
+Several products appear underpriced relative to their production costs
 
-Factory & Regional Performance
+Factory and Regional Performance
 
-Production is heavily concentrated in Lot’s O’ Nuts and Wicked Choccy’s.
+Production is heavily concentrated in Lot’s O’ Nuts and Wicked Choccy’s
 
-Lot’s O’ Nuts is the strongest performer by a wide margin.
+Lot’s O’ Nuts is the strongest-performing factory by a wide margin
 
-Pacific and Atlantic regions consistently drive sales growth.
+Pacific and Atlantic regions consistently drive sales growth
 
-Other factories and regions show underutilized capacity.
+Other factories and regions show underutilized capacity
 
- Methodology
+Methodology
 
 Data exploration and cleaning
 
 Cost, price, and profit-per-unit analysis
 
-Product and factory-level aggregation
+Product- and factory-level aggregation
 
 Comparative analysis across regions and time
 
 Insight summarization for business decision-making
 
- Actionable Recommendations
+Actionable Recommendations
 
 Gradually increase prices on best-selling products with low price sensitivity
 
-Focus production on high-margin products (Everlasting Gobstopper, Lickable Wallpaper)
+Focus production on high-margin products such as Everlasting Gobstopper and Lickable Wallpaper
 
 Shift production toward top-performing factories and regions
 
@@ -73,22 +69,22 @@ Reduce or simplify low-impact, low-profit products
 
 Test regional pricing adjustments to minimize risk and measure customer response
 
- Project Deliverables
+Project Deliverables
 
-Pricing & profitability analysis
+Pricing and profitability analysis
 
 Factory performance comparison
 
-Business insights & recommendations
+Business insights and recommendations
 
 Presentation deck summarizing findings
 
- Skills Demonstrated
+Skills Demonstrated
 
-Business analytics & pricing strategy
+Business analytics and pricing strategy
 
-SQL-style aggregation & KPI analysis
+SQL-style aggregation and KPI analysis
 
 Profitability modeling
 
-Data storytelling & executive reporting
+Data storytelling and executive reporting
