@@ -178,3 +178,6 @@ GROUP BY
 -- DROP TABLE Orders_tmp;
 -- DROP TABLE Sales_tmp;
 -- SET FOREIGN_KEY_CHECKS = 1;
+
+-- renaming the bridge table
+RENAME TABLE sales_bridge_table TO sales;
