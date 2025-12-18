@@ -2,7 +2,7 @@ Pricing & Production Optimization Analysis
 Willy Wonka Chocolate Factory
 Project Overview
 
-This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the objective is to identify which products and factories drive profit and where pricing or production decisions can be optimized to improve overall performance.
+This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the goal is to identify which products and factories drive profit and where pricing or production decisions can be optimized to improve overall performance.
 
 Business Problem
 
@@ -10,7 +10,7 @@ Not all products contribute equally to profitability:
 
 Some high-volume products generate low profit, suggesting potential underpricing
 
-Other products show strong margins but low sales volume, limiting their overall impact
+Other products show strong margins but low sales volume, limiting their impact
 
 Factories differ significantly in output and operational efficiency
 
