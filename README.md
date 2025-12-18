@@ -1,54 +1,94 @@
-# Pricing and Production Optimization – Willy Wonka Dataset
+Pricing & Production Optimization Analysis
 
-## Project Overview
+Willy Wonka Chocolate Factory
 
-This project analyzes Willy Wonka chocolate sales and production data to identify **which products and factories drive profit—and which reduce it**. The focus is on profitability rather than sales volume, supporting better **pricing, production, and portfolio decisions**.
+Project Overview
 
----
+This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the goal is to identify which products and factories drive profit—and where pricing or production decisions can be optimized to improve overall performance 
 
-## Business Challenge
+Presentation - Pricing Optimiza…
 
-Wonka produces many chocolate products across multiple factories and regions, but:
+Business Problem
 
-* Some high-selling products generate **low profit**
-* Some high-margin products sell **too little**
-* Factory efficiency and product mix vary
+Not all products contribute equally to profitability:
 
-Without clear insights, it is difficult to optimize pricing, production allocation, and product strategy.
+Some high-volume products generate low profit, suggesting potential underpricing.
 
----
+Other products show strong margins but low sales volume, limiting their impact.
 
-## Analytical Objective
+Factories differ significantly in output and efficiency.
 
-The goal is to understand **which products make money, which don’t, and why**, in order to:
+Without a clear view of these dynamics, pricing and production decisions risk leaving profit on the table.
 
-* Identify most and least profitable products
-* Detect underpriced high-volume items
-* Find high-margin products with growth potential
-* Compare factory-level profitability
-* Recommend data-driven pricing and production actions
+Key Insights
+Product Performance
 
----
+Chocolate bars dominate total sales, with Milk Chocolate Wonka Bar as the top seller.
 
-## Key Hypotheses
+Non-core products (Wonka Gum, Lickable Wallpaper, Kazookles) account for most non-chocolate sales.
 
-* Best-selling products may be **underpriced**
-* High-margin products may need **better marketing or distribution**
-* Profitability differs by **factory efficiency**
-* **Premium products** outperform basic bars
-* Profit varies by **region or shipping mode**
+Many niche products sell in very low volumes and contribute little to revenue.
 
----
+Pricing & Profitability
 
-## Expected Impact
+High selling price does not always equal high profit.
 
-This analysis enables Wonka to:
+Lickable Wallpaper and Everlasting Gobstopper show the highest profit per unit.
 
-* Adjust prices confidently
-* Shift production toward profitable items
-* Improve marketing focus
-* Reduce or discontinue weak performers
-* Increase profit without relying solely on higher sales volume
+Core chocolate bars deliver steady but mid-range margins.
 
----
+Several products appear underpriced relative to their production costs.
 
+Factory & Regional Performance
+
+Production is heavily concentrated in Lot’s O’ Nuts and Wicked Choccy’s.
+
+Lot’s O’ Nuts is the strongest performer by a wide margin.
+
+Pacific and Atlantic regions consistently drive sales growth.
+
+Other factories and regions show underutilized capacity.
+
+🛠 Methodology
+
+Data exploration and cleaning
+
+Cost, price, and profit-per-unit analysis
+
+Product and factory-level aggregation
+
+Comparative analysis across regions and time
+
+Insight summarization for business decision-making
+
+Actionable Recommendations
+
+Gradually increase prices on best-selling products with low price sensitivity
+
+Focus production on high-margin products (Everlasting Gobstopper, Lickable Wallpaper)
+
+Shift production toward top-performing factories and regions
+
+Reduce or simplify low-impact, low-profit products
+
+Test regional pricing adjustments to minimize risk and measure customer response
+
+Project Deliverables
+
+Pricing & profitability analysis
+
+Factory performance comparison
+
+Business insights & recommendations
+
+Presentation deck summarizing findings
+
+Skills Demonstrated
+
+Business analytics & pricing strategy
+
+SQL-style aggregation, Python and KPI analysis
+
+Profitability modeling
+
+Data storytelling & executive reporting
