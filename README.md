@@ -2,13 +2,13 @@ Pricing & Production Optimization Analysis
 
 Willy Wonka Chocolate Factory
 
-Project Overview
+ Project Overview
 
 This project analyzes product profitability, pricing efficiency, and factory performance across Willy Wonka’s chocolate portfolio. By combining sales, cost, and production data, the goal is to identify which products and factories drive profit—and where pricing or production decisions can be optimized to improve overall performance 
 
 Presentation - Pricing Optimiza…
 
-Business Problem
+ Business Problem
 
 Not all products contribute equally to profitability:
 
@@ -20,7 +20,7 @@ Factories differ significantly in output and efficiency.
 
 Without a clear view of these dynamics, pricing and production decisions risk leaving profit on the table.
 
-Key Insights
+ Key Insights
 Product Performance
 
 Chocolate bars dominate total sales, with Milk Chocolate Wonka Bar as the top seller.
@@ -49,7 +49,7 @@ Pacific and Atlantic regions consistently drive sales growth.
 
 Other factories and regions show underutilized capacity.
 
-🛠 Methodology
+ Methodology
 
 Data exploration and cleaning
 
@@ -61,7 +61,7 @@ Comparative analysis across regions and time
 
 Insight summarization for business decision-making
 
-Actionable Recommendations
+ Actionable Recommendations
 
 Gradually increase prices on best-selling products with low price sensitivity
 
@@ -73,7 +73,7 @@ Reduce or simplify low-impact, low-profit products
 
 Test regional pricing adjustments to minimize risk and measure customer response
 
-Project Deliverables
+ Project Deliverables
 
 Pricing & profitability analysis
 
@@ -83,11 +83,11 @@ Business insights & recommendations
 
 Presentation deck summarizing findings
 
-Skills Demonstrated
+ Skills Demonstrated
 
 Business analytics & pricing strategy
 
-SQL-style aggregation, Python and KPI analysis
+SQL-style aggregation & KPI analysis
 
 Profitability modeling
 
