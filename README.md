@@ -55,3 +55,4 @@ Without a clear view of these dynamics, pricing and production decisions risk le
 - Focus production on high-margin products such as Everlasting Gobstopper and Lickable Wallpaper
 - Shift production toward top-performing factories and regions
 - Reduce or simplif
+https://www.canva.com/design/DAG7Z4Pah2w/16ZmDOdBm2VI81rGpwpA5w/edit?utm_content=DAG7Z4Pah2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
