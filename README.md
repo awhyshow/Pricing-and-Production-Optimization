@@ -1,42 +1,42 @@
-Pricing & Production Optimization Analysis
+🍫 Pricing & Production Optimization Analysis
 Willy Wonka Chocolate Factory
-Project Overview
+📌 Project Overview
 
 This project analyzes product profitability, pricing efficiency, and factory performance across the chocolate portfolio of the Willy Wonka Chocolate Factory.
-By combining sales, cost, and production data, the analysis identifies which products and factories drive profit and where pricing or production decisions can be optimized to improve overall performance.
+By combining sales, cost, and production data, the goal is to identify which products and factories drive profit—and where pricing or production decisions can be optimized to improve overall business performance.
 
-Business Problem
+🎯 Business Problem
 
 Not all products contribute equally to profitability:
 
 Some high-volume products generate low profit, suggesting potential underpricing
 
-Other products show strong margins but low sales volume, limiting their impact
+Other products show strong margins but low sales volume, limiting their overall impact
 
 Factories differ significantly in output levels and operational efficiency
 
-Without a clear view of these dynamics, pricing and production decisions risk leaving profit unrealized.
+Without a clear understanding of these dynamics, pricing and production decisions risk leaving profit unrealized.
 
-Key Insights
+🔍 Key Insights
 Product Performance
 
 Chocolate bars dominate total sales, with the Milk Chocolate Wonka Bar as the top-selling product
 
-Non-core products such as Wonka Gum, Lickable Wallpaper, and Kazookles account for most non-chocolate sales
+Non-core products (Wonka Gum, Lickable Wallpaper, Kazookles) account for most non-chocolate sales
 
 Many niche products sell in very low volumes and contribute little to overall revenue
 
-Pricing and Profitability
+Pricing & Profitability
 
-High selling price does not always translate into high profit
+A high selling price does not always translate into high profit
 
 Lickable Wallpaper and Everlasting Gobstopper deliver the highest profit per unit
 
 Core chocolate bars provide stable but mid-range margins
 
-Several products appear underpriced relative to their production costs
+Several products appear underpriced relative to production costs
 
-Factory and Regional Performance
+Factory & Regional Performance
 
 Production is concentrated in Lot’s O’ Nuts and Wicked Choccy’s
 
@@ -46,7 +46,7 @@ Pacific and Atlantic regions consistently drive sales growth
 
 Other factories and regions show underutilized capacity
 
-Methodology
+🧪 Methodology
 
 Data exploration and cleaning
 
@@ -58,7 +58,7 @@ Comparative analysis across regions and time
 
 Insight summarization for business decision-making
 
-Actionable Recommendations
+🚀 Actionable Recommendations
 
 Gradually increase prices on best-selling products with low price sensitivity
 
@@ -70,22 +70,22 @@ Reduce or simplify low-impact, low-profit products
 
 Test regional pricing adjustments to limit risk and measure customer response
 
-Project Deliverables
+📦 Project Deliverables
 
 Pricing and profitability analysis
 
 Factory performance comparison
 
-Business insights and recommendations
+Business insights and strategic recommendations
 
 Presentation deck summarizing findings
 
-Skills Demonstrated
+🧠 Skills Demonstrated
 
-Business analytics and pricing strategy
+Business analytics & pricing strategy
 
 SQL-style aggregation and KPI analysis
 
 Profitability modeling
 
-Data storytelling and executive reporting
+Data storytelling & executive reporting
